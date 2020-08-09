@@ -3,10 +3,10 @@
 ######    This is github file
 this is my first demo project
 
-** Honesty is the Best Policy **
+**Honesty is the Best Policy**
 
-* He is great guy *
+*He is great guy*
 
-*** Bold & Italic ***
+***Bold & Italic***
 
 
